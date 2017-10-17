@@ -6,9 +6,9 @@ Annotation of spoken corpora in ConLab
 ```
 po@sek1930m          ├ И потом сюда <выехала>.   ┤          ├ Выехала.             ┤  
 dt@sek1930m          ├ i pat'om sud'a            ┤          ├ v'yixala             ┤  
-mb@sek1930m          ├ i patom suda              ┤          ├ vy-jex-a-l-a         ┤   
- ˪mt@sek1930m                                               ├ prefix-root-t-ending ┤  
-gl@sek1930m          ├ и.CONJ потом.ADV сюда.ADV ┤          ├ vy-jex-a-la          ┤  
+mb@sek1930m          ├ i patom suda              ┤          ├ vy-jex-a=l-a         ┤   
+ ˪mt@sek1930m                                               ├ prefix-root-suffix=  ┤  
+gl@sek1930m          ├and.CONJ then.ADV here.ADV ┤          ├ vy-jex-a-la          ┤  
  ˪word@sek1930m      ├И   ┤├потом┤├сюда          ┤          ├ выехала              ┤                  
  ˪lemma@sek1930m     ├И   ┤├потом┤├сюда          ┤          ├ выехать              ┤             
  ˪pos@sek1930m       ├CONJ┤├ADV  ┤├ADV           ┤          ├ V                    ┤           
