@@ -64,3 +64,8 @@ cf. lang@JW in smallExample.eaf
 * Как помечать интервьюера?  
   
 * Пары для нотации латиницей VS в оригинальной орфографии? (могут аннотироваться автоматически, по большей части)
+
+## References
+
+* [Leipzig glossing rules](http://www.eva.mpg.de/lingua/resources/glossing-rules.php)  
+* 
