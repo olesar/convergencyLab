@@ -4,20 +4,20 @@
 * Mehweb Dargwa (1000 sentences, ca. 25.000 words, done ???)
 
 ## 2018
-* UD_Dargwa
-..* Chirag (provided by D.Ganenkov, 2400 words)
-..* Tanty (N. Sumbatova, Ju. Lander, 350 sentences, ca. 3000 words)
-..* Mehweb ??
+* UD_Dargwa  
+..* Chirag (provided by D.Ganenkov, 2400 words)  
+..* Tanty (N. Sumbatova, Ju. Lander, 350 sentences, ca. 3000 words)  
+..* Mehweb ??  
 
-* DagRus
+* DagRus  
 
-* Other ConLab languages Corpora?
+* Other ConLab languages Corpora?  
 
 #### Background data
-* Russian: target 500 MW, automatically parsed (with Tatiana Shavrina & Yana Kurmacheva)
-* Spoken Russian
-* Belarussian 
-* Lithuanian
+* Russian: target 500 MW, automatically parsed (with Tatiana Shavrina & Yana Kurmacheva)  
+* Spoken Russian  
+* Belarussian   
+* Lithuanian  
 
 ## Pub preparation:
-* ACL: UD for Dargwa (Skopus 1)
+* ACL: UD for Dargwa (Skopus 1)  
