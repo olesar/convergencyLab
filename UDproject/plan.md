@@ -20,4 +20,4 @@
 * Lithuanian  
 
 ## Pub preparation:
-* ACL: UD for Dargwa (Skopus 1)  
+* UD for Dargwa
